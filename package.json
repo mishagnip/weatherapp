@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.17.1",
+    "hbs": "4.1.1",
+    "node-fetch": "2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
